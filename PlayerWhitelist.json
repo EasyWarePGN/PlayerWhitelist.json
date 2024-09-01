@@ -1,0 +1,101 @@
+{
+    "WhitelistedUsers": {
+        "1183370716477915259": {
+            "hash": "7d86322fa13b3372e0a9309a3bbdde8de71a8276b507664e24afa26575c2052382bcc1513362a5b16c9eb6d91399154ad2737d88655fbc7899c96a0ec604f077",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "googoo gaagaa",
+                    "color": [
+                        255,
+                        95,
+                        95
+                    ]
+                }
+            ]
+        },
+        "1249706429909176321": {
+            "hash": "ac7138642c387222b86f771abd3f4bac800a2d02b50abd6fd8e129bd7aa813a7254e7e1b0f0c30b6a12d2bfa57bab3e2d353d054fbd1c316e49ccffb1e059990",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "EasyWare Owner",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
+        },
+        "744133099994087532": {
+            "hash": "93e6e6d82a72457e9dc6d798613fcff98422c22445b4fc481fd80ad3cc2dd03b2640328426e16efecc54f18b610ad7ea567efdab08e282376e4e8b39c48b721c",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "stav 2.0",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "1150329130571796541": {
+            "hash": "fbd994d4a67794cfa2ef854fe1e2bd06b7b4494fa638f01ccf894db5e484f2e2c6a3a94a6ece9e7ea50063487c81694889649db63db2000d04ab90b930f204cf",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "Skid vape private",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        },
+        "7291343522": {
+            "hash": "your_hash_here",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "EasyWare Owner",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
+        },
+        "1": {
+            "hash": "abc123xyz456789def000111222333444555666777888999aaa0001112223334",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "EasyWare User",
+                    "color": [
+                        50,
+                        150,
+                        255
+                    ]
+                }
+            ]
+        }
+    },
+    "BlacklistedUsers": {},
+    "Announcement": {
+        "text": "hello there :)",
+        "expiretime": 1719510977.4331613,
+        "targets": "2529295875"
+    },
+    "KillVape": false
+}
